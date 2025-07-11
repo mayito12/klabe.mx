@@ -1,0 +1,86 @@
+{
+    "settings": {
+        "siteName": "Klabe",
+        "preloader": {
+            "image": "/img/Logo1.svg",
+            "alt": "logo"
+        },
+        "formspreeURL": "https://formsubmit.co/your@gmail.com",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "image": "/img/logo.svg",
+            "alt": "logo"
+        },
+        "menu": [
+            {
+                "label": "Inicio",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "Productos",
+                "link": "/productos.html",
+                "children": 0
+            },
+            {
+                "label": "Conócenos",
+                "link": "/conocenos.html",
+                "children": 0
+            },
+             {
+                "label": "Contactanos",
+                "link": "/contact.html",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "productos": [
+            {
+            "label": "Crédito Verde",
+            "link": "/productos/Credito-Verde.html"
+            },
+             {
+            "label": "Crédito de Consumo",
+            "link": "/productos/Credito-Consumo.html"
+            }
+            , {
+            "label": "Crédito PYME",
+            "link": "/productos/Credito-Pyme.html"
+            }
+            , {
+            "label": "Maxi Pensión",
+            "link": "/productos/Maxi-Pension.html"
+            }
+            , {
+            "label": "Crédito para Equipo Médico",
+            "link": "/productos/Credito-Medico.html"
+            }
+            , {
+            "label": "Crédito Automotriz",
+            "link": "/productos/Credito-Automotriz.html"
+            }
+          ],
+        "info": {
+            "address": "Calle Laureles 350. Col Jardines de Tuxtla. C.P. 29059",
+            "tel": "(+52) 961 60 2 72 98",
+            "email": "atencionaclientes@klabe.mx"
+        },
+        "copy": "© 2025 KLABE Servicios Financieros - Todos los derechos reservados"
+    },
+    "social": [
+        {
+            "link": "https://www.facebook.com/PROFINMEX",
+            "title": "Facebook"
+        },
+        {
+            "link": "/avisodeprivacidad.html",
+            "title": "Aviso de Privacidad"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "items": [
+        {
+            "image": "img/equipomedico.jpg",
+            "imageMobile": "img/equipomedico1.jpg",
+            "title": "Equipo Médico",
+            "text": "Financiamiento diseñado para la adquisición de equipo médico y dental.",
+            "button": {
+                "label": "Mas informacion",
+                "link": "/productos/Maxi-Pension.html"
+            }
+        } ,
+        {
+            "image": "img/background.jpg",
+            "imageMobile": "img/background1.jpg",
+            "title": "¿Buscas financiamiento de MODALIDAD 40?",
+            "text": "Te pagamos tu MODALIDAD 40, y paga hasta el final con tus recursos Afore!",
+            "button": {
+                "label": "Mira nuestros productos",
+                "link": "/productos.html"
+            }
+        } ,{
+            "image": "img/arrendamiento.jpg",
+            "imageMobile": "img/arrendamiento1.jpg",
+            "title": "Estrena",
+            "text": "Te permite obtener un automóvil a un plazo determinado.",
+            "button": {
+                "label": "Mas informacion",
+                "link": "/productos/Credito-Automotriz.html"
+            }
+        } 
+        ,{
+            "image": "img/fondoverde.jpg",
+            "imageMobile": "img/fondoverde2.png",
+            "title": "Crédito verde",
+            "text": "Destinado a la compra de paneles solares.",
+            "button": {
+                "label": "Mas informacion",
+                "link": "/productos/Credito-Verde.html"
+            }
+        } 
+        ,{
+            "image": "img/creditoconsumo.jpg",
+            "imageMobile": "img/creditoconsumo1.jpg",
+            "title": "Crédito de Consumo",
+            "text": "Financiamiento a empresarios y PYMEs con alto consumo de Gas L.P.",
+            "button": {
+                "label": "Mas informacion",
+                "link": "/productos/CrediGas-Estacionario.html"
+            }
+        } 
+        ,{
+            "image": "img/credipyme.jpg",
+            "imageMobile": "img/credipyme1.jpg",
+            "title": "Crédito PYME",
+            "text": "Proporcionamos préstamos PYMES con garantía inmobiliaria, a un costo financiero competitivo y atractivo.",
+            "button": {
+                "label": "Mas informacion",
+                "link": "/productos/Credito-Pyme.html"
+            }
+        } 
+        ,{
+            "image": "img/parejasenior.jpg",
+            "imageMobile": "img/parejasenior1.jpg",
+            "title": "Maxi Pensión",
+            "text": "¡Te ayudamos a elevar tu pensión!",
+            "button": {
+                "label": "Mas informacion",
+                "link": "/productos/Maxi-Pension.html"
+            }
+        }
+    ]
+}

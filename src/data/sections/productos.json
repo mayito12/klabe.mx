@@ -1,0 +1,58 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/Icono-CreditoVerde.ico", 
+                "alt": "icon"
+            },
+            "title": "Crédito Verde",
+            "text": "",
+            "link": "/productos/Credito-Verde.html"
+        },
+        {
+            "icon": {
+                "light": "/img/pagar.png", 
+                "alt": "icon"
+            },
+            "title": "Crédito de Consumo",
+            "text": "",
+            "link": "/productos/CrediGas-Estacionario.html"
+        } ,
+        {
+            "icon": {
+                "light": "/img/logopyme.png", 
+                "alt": "icon"
+            },
+            "title": "Crédito PYME",
+            "text": "",
+            "link": "/productos/Credito-Pyme.html"
+        },
+        {
+            "icon": {
+                "light": "/img/maxiico.png", 
+                "alt": "icon"
+            },
+            "title": "Maxi Pensión",
+            "text": "",
+            "link": "/productos/Maxi-Pension.html"
+        },
+        {
+            "icon": {
+                "light": "/images/iconoautomotriz.ico", 
+                "alt": "icon"
+            },
+            "title": "Crédito Automotriz",
+            "text": "",
+            "link": "/productos/Credito-Automotriz.html"
+        },
+        {
+            "icon": {
+                "light": "/img/medicoicon.png", 
+                "alt": "icon"
+            },
+            "title": "Crédito para Equipo Médico",
+            "text": "",
+            "link": "/productos/Credito-Medico.html"
+        }
+    ]
+}
