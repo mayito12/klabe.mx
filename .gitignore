@@ -1,0 +1,7 @@
+node_modules
+.next
+.vercel
+out
+pnpm-lock.yaml
+._*
+.DS_Store
